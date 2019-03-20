@@ -1,0 +1,26 @@
+ABSTRACT
+
+Title: Automatic voice controlled robotic wheelchair
+
+Problem: these days many old people who want to travel alone but cannot due to their disabilities, we a provide a solution for this to travel by a voice controlled robotic wheelchair
+
+Technologies we used: arduino , android development , GSM.
+
+Time it took: 10 days.
+
+What I learnt: I learnt about the actual depth of IOT while doing this project, mainly while the R and D(Research and development) of this project we learnt about the difficulties of the old people who are unable to walk and move by themselves. 
+
+Who with you worked with: Myself
+
+Cost it had taken: 6000
+
+			
+This is the concept that i worked on  to the people who are disabled like Stephen Hawking  who cannot move their body parts, 
+so this wheelchair can help them to move themselves by voice.
+
+
+It’s a automated robot wheel chair which is related to IOT
+(this is just a model of wheel chair and prototype),this wheelchair is voice controlled ,this robot can also check the obstacles and avoid it by nodding its head (its a sigh that it wont be 
+able to move to the spoken direction) , this wheel chair when flipped it
+sends a SMS that the chair is flipped to the Concerned person and also
+sends a the location of it and also make a call that the wheel chair is flipped and makes a huge siren of sound when flipped.
